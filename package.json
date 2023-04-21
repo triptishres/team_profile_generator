@@ -22,6 +22,6 @@
     "homepage": "https://github.com/triptishres/team_profile_generator#readme",
     "dependencies": {
         "inquirer": "^7.0.0",
-        "jest": "^24.9.0"
+        "jest": "^29.5.0"
     }
 }
